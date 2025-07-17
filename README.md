@@ -72,18 +72,6 @@ Sou um profissional dedicado, movido pela paixão em proteger e otimizar ambient
 
 ---
 
-## 📊 Estatísticas de Atividade no GitHub
-
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=brunogomes&locale=pt_BR&mode=daily&theme=dark&hide_border=false&border_radius=8&order=3"
-    height="220"
-    alt="GitHub streak stats"
-  />
-</div>
-
----
-
 ## 💬 Vamos Conversar?
 
 Se quiser trocar ideias sobre infraestrutura, redes, segurança ou tecnologia, estou aberto a colaborações e novos desafios!
