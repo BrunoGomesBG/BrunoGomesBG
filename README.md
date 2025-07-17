@@ -66,8 +66,6 @@ Sou um profissional dedicado, movido pela paixão em proteger e otimizar ambient
   <img src="./img/logo_office.svg" height="40" alt="Office 365" />
   <img src="./img/logo_zabbix.svg" height="40" alt="Zabbix" />
   <img src="./img/logo_grafana.svg" height="40" alt="Grafana" />
-  <img src="./img/logo_docker.svg" height="40" alt="Docker" />
-  <img src="./img/logo_proxmox.svg" height="40" alt="Proxmox" />
 </div>
 
 ---
